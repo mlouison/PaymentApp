@@ -13,6 +13,7 @@ enum CreditCardType{
     case amex
     
     
+    
     var gradient : Gradient{
         switch self {
         case .visa:
